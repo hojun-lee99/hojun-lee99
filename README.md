@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- IDE의 활동이 기록 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[magik99])]()
+[![hojun-lee99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=magik99)]
