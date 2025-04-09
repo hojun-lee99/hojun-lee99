@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 ### solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183063)](https://solved.ac/20183063/)
+
+>프로그래밍은 제로섬 게임이 아닙니다. 동료 프로그래머에게 무언가를 가르친다 해서 당신의 지식이 사라지는 것은 아닙니다. 저는 프로그래밍과 사랑에 빠쳤고, 제가 잘할 수 있는 것을 공유하게되어 기쁨니다.
+>>게임 엔진 블랙 북: 울펜슈타인 3D
